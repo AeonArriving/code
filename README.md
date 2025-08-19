@@ -1,4 +1,5 @@
-This code is handled by Yuhang Chen
+**This code is handled by Yuhang Chen**
+
 **RunnerAC (Console-based Game with Anti-Cheat)**
 
 ### **Compilation Command**
